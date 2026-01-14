@@ -1,0 +1,22 @@
+========================================
+                 RESUME                 
+========================================
+
+PERSONAL INFORMATION
+Name: balavignesh
+Email: balavip073@gmail.com
+Phone: 9952876478
+Address: 116 sengunthapuram weast strret chithode erode
+
+EDUCATION
+• MCA from Nandha engineering college (2025)
+• B.sc(cs) from nandha arts and science college (2023)
+
+WORK EXPERIENCE
+• java at project (3)
+
+SKILLS
+• java
+• html
+• css
+• python
