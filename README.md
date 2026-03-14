@@ -1,8 +1,4 @@
  ### JAVA-GUI-APPLICATION         
      
        
-     
-       
-  
-           
-  
+    
