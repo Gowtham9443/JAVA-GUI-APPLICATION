@@ -9,7 +9,7 @@ This type java code run use to cmd are vs code use to run this code.
 -----
 ### JDK Version Check :
 * javac -version
-  MY JDK Version is Jdk23 (javac 23.0.2)
+MY JDK Version is Jdk23 (javac 23.0.2)
 ----
 ### Java-Project-Application  
 1. Password Generator GUI In Java   
