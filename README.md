@@ -5,7 +5,7 @@
 
 This type java code run use to cmd are vs code use to run this code.
 #### * javac PROJECTFILENAME.java
-#### * java PROJECTFILENAME.java
+#### * java PROJECTFILENAME.java   
 -----   
 ### JDK Version Check :
 * javac -version
