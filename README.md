@@ -34,7 +34,7 @@ MY JDK Version is Jdk23 (javac 23.0.2)
 19. MultiToolApp In Java
 20. FileExplorerPro In Java
 21. StudentGradeCalculator In java
-22. NotepadApp In Java  
+22. NotepadApp In Java   
   
       
   
