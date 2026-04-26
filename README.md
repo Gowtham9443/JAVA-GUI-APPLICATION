@@ -35,7 +35,7 @@ MY JDK Version is Jdk23 (javac 23.0.2)
 20. FileExplorerPro In Java
 21. StudentGradeCalculator In java
 22. NotepadApp In Java
-23. Brick Breaker Game 
+23. Brick Breaker Game In Java
   
       
   
