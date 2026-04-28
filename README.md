@@ -23,7 +23,7 @@ MY JDK Version is Jdk23 (javac 23.0.2)
 7. Screenshot App GUI In Java      
 8. Inventory Management System GUI In Java     
 9. Attendance System GUI In Java   
-10. NumberGuessingGame GUI In Java        
+10.  NumberGuessingGame GUI In Java        
 11. Scientific Calculator GUI In Java
 12. Snake Game GUI In Java    
 13. Speed Distance Time Calculator GUI In Java
