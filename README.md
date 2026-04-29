@@ -10,7 +10,6 @@ Java (.java):
 * javac filename.java
 * java filenmae.java
 
-
 -----   
 ### JDK Version Check :
 * javac -version
