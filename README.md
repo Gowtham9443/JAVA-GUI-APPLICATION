@@ -38,7 +38,8 @@ MY JDK Version is Jdk23 (javac 23.0.2)
 21. StudentGradeCalculator In java
 22. NotepadApp In Java
 23. Brick Breaker Game In Java
-24. TypingSpeedTesterAdvanced In Java 
+24. TypingSpeedTesterAdvanced In Java
+25. 
   
       
   
