@@ -11,7 +11,7 @@ Java (.java):
 * java filenmae.java            
 -----       
 ### JDK Version Check  :  
-* javac -version
+* javac -version  
 MY JDK Version is Jdk23 (javac 23.0.2)
 ----
 ### Java-Project-Application    
